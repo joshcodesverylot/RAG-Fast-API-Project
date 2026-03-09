@@ -150,5 +150,3 @@ I did this project today to learn how to use RAG with AI models. Another skill I
 
 ---
 
-# RAG-Fast-API-Project
-My first RAG project!
